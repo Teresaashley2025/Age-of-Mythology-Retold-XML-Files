@@ -29072,6 +29072,10 @@
       <damagebonus type="Ship">990000000000000000000000000000000000.000000</damagebonus>
       <damagebonus type="AbstractSiegeWeapon">990000000000000000000000000000000000.000000</damagebonus>
       <damagebonus type="Gargarensis">990000000000000000000000000000000000.000000</damagebonus>
+      <damagebonus type="Theseus">990000000000000000000000000000000000.000000</damagebonus>
+      <damagebonus type="Atalanta">990000000000000000000000000000000000.000000</damagebonus>
+      <damagebonus type="Hippolyta">990000000000000000000000000000000000.000000</damagebonus>
+      <damagebonus type="Polyphemus">990000000000000000000000000000000000.000000</damagebonus>
       <maxrange>2.750000</maxrange>
     </protoaction>
     <protoaction>
@@ -29106,6 +29110,10 @@
       <damagebonus type="Ship">990000000000000000000000000000000000.000000</damagebonus>
       <damagebonus type="AbstractSiegeWeapon">990000000000000000000000000000000000.000000</damagebonus>
       <damagebonus type="Gargarensis">990000000000000000000000000000000000.000000</damagebonus>
+      <damagebonus type="Theseus">990000000000000000000000000000000000.000000</damagebonus>
+      <damagebonus type="Atalanta">990000000000000000000000000000000000.000000</damagebonus>
+      <damagebonus type="Hippolyta">990000000000000000000000000000000000.000000</damagebonus>
+      <damagebonus type="Polyphemus">990000000000000000000000000000000000.000000</damagebonus>
       <damageflags>Nature|Enemy</damageflags>
       <rate type="All">1.0</rate>
       <onhiteffect type="Boost" targetunittype="HumanSoldier" duration="15.000000" radius="10.000000">
